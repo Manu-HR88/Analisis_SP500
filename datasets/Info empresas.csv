@@ -1,0 +1,33 @@
+﻿Simbolo,Empresa,Sector,Año,Utilidad por Acción,Utilidad Neta,Ingresos,Activos Circulantes,Pasivos Circulantes
+UNH,UnitedHealth Group,Salud,2019,14.6,13839,240269,42634,61782
+UNH,UnitedHealth Group,Salud,2020,16.28,15403,255639,53718,72420
+UNH,UnitedHealth Group,Salud,2021,18.37,17285,285273,61758,78292
+UNH,UnitedHealth Group,Salud,2022,21.5,2012,322132,69069,89237
+OGN,Organon & Co.,Salud,2019,12.71,3306,7777,3955,1341
+OGN,Organon & Co.,Salud,2020,8.53,2160,8096,3434,1201
+OGN,Organon & Co.,Salud,2021,5.33,1351,6304,3760,2597
+OGN,Organon & Co.,Salud,2022,3.61,917,6174,3592,2328
+AMZN,Amazon,Bienes Consumo Duradero,2019,1.17,11588,280522,96334,87812
+AMZN,Amazon,Bienes Consumo Duradero,2020,2.13,21331,386064,132733,126385
+AMZN,Amazon,Bienes Consumo Duradero,2021,3.3,33364,469822,161580,142266
+AMZN,Amazon,Bienes Consumo Duradero,2022,-0.3,-2722,513983,146791,155393
+NWL,Newell Brands,Bienes Consumo Duradero,2019,0.25,106.6,9174.9,4109.9,2978
+NWL,Newell Brands,Bienes Consumo Duradero,2020,-1.82,-770,9385,4628,3621
+NWL,Newell Brands,Bienes Consumo Duradero,2021,1.34,572,10589,4262,3317
+NWL,Newell Brands,Bienes Consumo Duradero,2022,0.47,197,9459,4052,3078
+AAPL,Apple Inc.,Tecnológico,2019,2.99,55256,260174,162819,105718
+AAPL,Apple Inc.,Tecnológico,2020,3.31,57411,274515,143713,105392
+AAPL,Apple Inc.,Tecnológico,2021,5.67,94680,365817,134836,125481
+AAPL,Apple Inc.,Tecnológico,2022,6.15,99803,394328,135405,153982
+DXC,DXC Technology,Tecnológico,2019,4.53,1222,20753,9066,9453
+DXC,DXC Technology,Tecnológico,2020,-20.76,-5369,19577,8987,7895
+DXC,DXC Technology,Tecnológico,2021,-0.59,-149,17729,8208,8150
+DXC,DXC Technology,Tecnológico,2022,2.87,718,16265,7446,6853
+XOM,ExxonMobil,Energético,2019,3.36,14340,255583,50052,63989
+XOM,ExxonMobil,Energético,2020,-5.25,-22440,178574,44893,56363
+XOM,ExxonMobil,Energético,2021,5.39,23040,276692,59154,56643
+XOM,ExxonMobil,Energético,2022,13.26,55740,398675,97631,69045
+APA,APA Corporation,Energético,2019,-9.43,-3515,6315,1961,1855
+APA,APA Corporation,Energético,2020,-12.86,-4784,4435,1846,1308
+APA,APA Corporation,Energético,2021,2.6,1135,7985,2380,2117
+APA,APA Corporation,Energético,2022,11.05,3604,11075,2708,2916
