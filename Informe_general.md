@@ -7,8 +7,8 @@ Este informe tiene el objetivo de presentar el trabajo realizado en este proyect
 ## Análisis Exploratorio de Datos
 
 Este etapa se encuentra descrito a detalle en el archivo "EDA_SP500.ipynb"; sin embargo aquí se menciona la estructura de dicho archivo para facilitar la consulta:
-* Se utilizó la libraría "yfinance" para extraer los datos.
-* Se extrajo información de los balances financieros también de la página [yahoo](https://finance.yahoo.com/).
+* Se utilizó la libraría "yfinance" para extraer los datos históricos del S&P500 y de los ETF's de los sectores.
+* Se extrajo información de los balances financieros de las empresas a analizar también de la página [yahoo](https://finance.yahoo.com/).
 * Se tomó como periodo a analizar del año 2000 al 2023.
 * Se encontraron patrones interesantes y se realizó la investigación correspondiente que a grandes rasgos consta de lo siguiente:
 
